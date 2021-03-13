@@ -1,7 +1,7 @@
 # Publicando Portas com Nginx
 
 ```
-docker run -i -t --rm -p 8087:80 -v $(pwd)/html:/usr/share/nginx/html nginx:latest
+docker run -i -t --rm -p 8087:80 -v $(pwd)/files/03_Acessando_Arquivos_Pelo_Container/html:/usr/share/nginx/html nginx:latest
 ```
 
 Obs.: Caso vá rodar o comando da forma que está acima, é necessário que o seu terminal esteja aberto nesta pasta.
