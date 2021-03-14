@@ -8,6 +8,7 @@
   - [Introdução](docs/01_Introducao.md)
     - [Conceitos](docs/01.01_Conceitos.md)
     - [Comandos Básicos](docs/01.02_Comandos_Basicos.md)
+  - [Trabalhando com as Imagens](docs/02_Trabalhando_Com_As_Imagens.md)
   - [Exemplos](examples/exemplos.md)
   - [Como Contribuir](#como-contribuir)
   - [Autores](#autores)
