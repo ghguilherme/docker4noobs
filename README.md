@@ -9,6 +9,7 @@
     - [Conceitos](docs/01.01_Conceitos.md)
     - [Comandos Básicos](docs/01.02_Comandos_Basicos.md)
   - [Trabalhando com as Imagens](docs/02_Trabalhando_Com_As_Imagens.md)
+  - [Entendendo os tipos de Network](docs/03_Docker_Network.md)
   - [Exemplos](examples/exemplos.md)
   - [Como Contribuir](#como-contribuir)
   - [Autores](#autores)
