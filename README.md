@@ -6,6 +6,7 @@
 # Índice
 
   - [Introdução](docs/01_Introducao.md)
+    - [Instalação](docs/01.01_Conceitos.md)
     - [Conceitos](docs/01.01_Conceitos.md)
     - [Comandos Básicos](docs/01.02_Comandos_Basicos.md)
   - [Trabalhando com as Imagens](docs/02_Trabalhando_Com_As_Imagens.md)
